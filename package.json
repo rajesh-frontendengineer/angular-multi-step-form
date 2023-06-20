@@ -11,7 +11,7 @@
   "devDependencies": {
     "chokidar": "^1.2.0",
     "conventional-changelog": "0.0.17",
-    "coveralls": "^2.11.2",
+    "coveralls": "^3.0.0",
     "del": "^2.0.2",
     "gulp": "gulpjs/gulp#4.0",
     "gulp-babel": "^5.3.0",
